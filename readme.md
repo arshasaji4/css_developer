@@ -4,6 +4,9 @@
 
 # API Platform Landing Page
 
+
+[live@](https://css-developer-gold.vercel.app/)
+
 This project is a **responsive landing page** built using **HTML**, **Tailwind CSS**, and **Font Awesome**. It represents an API-based platform showcasing navigation, API categories, blog articles, company branding, and a call-to-action section.
 
 
